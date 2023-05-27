@@ -1,0 +1,36 @@
+*{
+    padding: 0px 4px;
+    background-color: #ffffcb;
+}
+
+h1{
+    color: red;
+    text-align: center;
+}
+
+nav{
+    text-align: center;
+}
+
+nav a{
+    padding: 0 8px;
+}
+
+figure{
+    text-align: center;
+}
+
+footer p{
+    background-color: yellow;
+    height: 48px;
+    line-height: 48px;
+    text-align: center;
+    font-weight: bold;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+
+
