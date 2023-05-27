@@ -8,12 +8,17 @@ h1{
     text-align: center;
 }
 
-nav{
-    text-align: center;
+nav ul li{
+    list-style-type: none;
 }
 
-nav a{
-    padding: 0 8px;
+nav ul li{
+    float: left;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
 }
 
 figure{
